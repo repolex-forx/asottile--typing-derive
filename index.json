@@ -1,0 +1,11 @@
+{
+  "org": "asottile",
+  "repo": "typing-derive",
+  "versions": [
+    {
+      "commit": "67a8d5c2e9df69b237620409dc467f972709ceed",
+      "tag": "",
+      "parsed_at": "2026-10-20T21:09:26.079724+00:00"
+    }
+  ]
+}
