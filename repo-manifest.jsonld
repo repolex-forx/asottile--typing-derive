@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/asottile/typing-derive/commit/67a8d5c2e9df69b237620409dc467f972709ceed",
       "git:hexsha": "67a8d5c2e9df69b237620409dc467f972709ceed",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T21:09:26.079240+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asottile/typing-derive/commit/21a240253fb72e24ba5c65ecbfa6077c0d3d1157",
